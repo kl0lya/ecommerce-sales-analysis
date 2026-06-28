@@ -1,6 +1,9 @@
-# E-commerce Sales Analysis | Portfolio Project
+# E-commerce Sales Analysis
 
 > **End-to-end data analysis** of an online furniture store — from SQL data extraction in Google BigQuery to statistical testing in Python and an interactive Tableau dashboard.
+
+Full analysis with code and outputs:
+[View in GitHub](ecommerce-sales-analysis.ipynb)
 
 ---
 
@@ -13,9 +16,9 @@
 | KPIs · Revenue trend · Top countries · Device & channel breakdown | Product categories · Continent trends · User behaviour · Correlation |
 
 
-![E-commerce Sales Dashboard](E-commerce Sales Dashboard.png)
+![E-commerce Sales Dashboard](E-commerce%20Sales%20Dashboard.png)
 
-![Segmentation Deep Dive](Segmentation Deep Dive.png)
+![Segmentation Deep Dive](Segmentation%20Deep%20Dive.png)
 
 ---
 
