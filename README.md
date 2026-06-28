@@ -120,4 +120,4 @@ Data was extracted from **Google BigQuery** (`data-analytics-mate.DA` dataset) v
 
 ## Author
 
-**Olha Klochnyk ** — Data Analyst  
+**Olha Klochnyk** — Data Analyst
